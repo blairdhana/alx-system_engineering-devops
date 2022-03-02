@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p -l -a /boot
+ls -ltra
